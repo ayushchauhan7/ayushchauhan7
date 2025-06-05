@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ayush_ch30" target="blank"><img src="https://img.shields.io/twitter/follow/ayush_ch30?logo=twitter&style=for-the-badge" alt="ayush_ch30" /></a> </p>
 
-- 📫 How to reach me **chauhan0007ayush@gmail.com** https://portfolio-production-f800.up.railway.app/
+- 📫 How to reach me https://portfolio-production-f800.up.railway.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
